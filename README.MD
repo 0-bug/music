@@ -45,6 +45,7 @@ php 5.4+, curl_exec, file_get_contents, json_decode, openssl_encrypt
 
 ### 开发文档
 1.pc端          从 网页版 到 插件的实现  懒人式听歌
+
 2.手机端       实现QQ音乐的部分ui功能,以及QQ音乐的歌曲锁屏功能,后台运行功能,手机端显示歌词功能
 
 -----
